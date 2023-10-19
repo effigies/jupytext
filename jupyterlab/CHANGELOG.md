@@ -1,3 +1,8 @@
+# 1.4.0 (2022-10-19)
+
+- The `jupyterlab-jupytext` extension is now compatible with JupyterLab 4 only.
+- The server extension for `jupytext` has been moved from core Jupytext to the extension.
+
 # 1.3.9 (2022-06-02)
 
 - We updated the `yarn.lock` file for the jupyter lab extension to address security vulnerabilities ([#904](https://github.com/mwouts/jupytext/issues/904), [#925](https://github.com/mwouts/jupytext/issues/925), [#935](https://github.com/mwouts/jupytext/issues/935), [#939](https://github.com/mwouts/jupytext/issues/939), [#984](https://github.com/mwouts/jupytext/issues/984), [#1005](https://github.com/mwouts/jupytext/issues/1005), [#1011](https://github.com/mwouts/jupytext/issues/1011), [#1030](https://github.com/mwouts/jupytext/issues/1030), [#1036](https://github.com/mwouts/jupytext/issues/1036), [#1052](https://github.com/mwouts/jupytext/pull/1052))
